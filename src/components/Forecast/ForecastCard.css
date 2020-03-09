@@ -78,6 +78,7 @@
   display: flex;
   text-align: center;
   padding-left: 6px;
+  font-size: 14px;
 }
 
 .temp-low {

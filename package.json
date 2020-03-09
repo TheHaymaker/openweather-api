@@ -6,15 +6,23 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "acorn": "^7.1.1",
+    "moment": "^2.24.0",
     "react": "^16.13.0",
+    "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-moment": "^0.9.7",
+    "react-scripts": "3.4.0",
+    "react-transition-group": "^4.3.0",
+    "victory": "^34.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "homepage": "http://thehaymaker.github.io/weather-app/",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }

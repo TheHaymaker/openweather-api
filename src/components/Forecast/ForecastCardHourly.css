@@ -1,0 +1,25 @@
+.forecast-card__hourly {
+  padding: 5px;
+  background-color: navajowhite;
+  margin: 2px;
+  box-shadow: 0px 20px 21px -22px #a8a3a3;
+  cursor: auto;
+  position: relative;
+}
+
+.forecast-card-leave-active {
+  position: absolute;
+  opacity: 0;
+  transition: 0s all ease !important;
+}
+
+.time {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #474c7b;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.forecast-card__hourly .weather-icon {
+  font-size: 35px;
+}

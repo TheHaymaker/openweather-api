@@ -1,0 +1,19 @@
+.forecast-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.forecast-wrapper span {
+  display: flex;
+  width: 100%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 570px) {
+  .forecast-wrapper {
+    flex-direction: column;
+  }
+}

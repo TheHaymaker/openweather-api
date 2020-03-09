@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/openweather-api/static/css/main.c8b81b72.chunk.css",
+    "main.js": "/openweather-api/static/js/main.e0c0f045.chunk.js",
+    "main.js.map": "/openweather-api/static/js/main.e0c0f045.chunk.js.map",
+    "runtime-main.js": "/openweather-api/static/js/runtime-main.39f43434.js",
+    "runtime-main.js.map": "/openweather-api/static/js/runtime-main.39f43434.js.map",
+    "static/js/2.47900e66.chunk.js": "/openweather-api/static/js/2.47900e66.chunk.js",
+    "static/js/2.47900e66.chunk.js.map": "/openweather-api/static/js/2.47900e66.chunk.js.map",
+    "index.html": "/openweather-api/index.html",
+    "precache-manifest.ab6b9533fdc843949352536b56577ca4.js": "/openweather-api/precache-manifest.ab6b9533fdc843949352536b56577ca4.js",
+    "service-worker.js": "/openweather-api/service-worker.js",
+    "static/css/main.c8b81b72.chunk.css.map": "/openweather-api/static/css/main.c8b81b72.chunk.css.map",
+    "static/js/2.47900e66.chunk.js.LICENSE.txt": "/openweather-api/static/js/2.47900e66.chunk.js.LICENSE.txt",
+    "static/media/ForecastCard.css": "/openweather-api/static/media/degree.915db558.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f43434.js",
+    "static/js/2.47900e66.chunk.js",
+    "static/css/main.c8b81b72.chunk.css",
+    "static/js/main.e0c0f045.chunk.js"
+  ]
+}
